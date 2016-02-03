@@ -1,0 +1,13 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+It creates all the initial meta data for the repository.
+
+Now, we can start work with our version control.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The Staging area does not contain versions of the same file, only the files
+to be commited. So in that sense it is different from a ripository.
+
+But, it does contain meta data such as which files to commit, data that
+a working directory does not have. 
